@@ -2,7 +2,7 @@
 
 Please add my Discord and let me know if there are any errors or bugs with the GUI as I will try my best to fix them.
 
-Made by me | My Discord is Michael825#8250
+Made by me | My Discord is Michael825#4215
 
 The UI Library I used: https://bit.ly/38LEk45
 
